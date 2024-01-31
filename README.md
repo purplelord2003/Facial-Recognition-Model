@@ -1,1 +1,1 @@
-# Facial-Recognition-Model
+# Object Detection Model
