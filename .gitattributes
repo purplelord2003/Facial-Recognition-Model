@@ -1,3 +1,2 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
-T.zip filter=lfs diff=lfs merge=lfs -text
-TACO.v3-yolov5.coco.zip filter=lfs diff=lfs merge=lfs -text
+
