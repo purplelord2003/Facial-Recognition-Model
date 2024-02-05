@@ -8,13 +8,13 @@
 'Plastic bottle cap'
 'Metal bottle cap'
 'Broken glass'
-'Food Can’
+'Food Can'
 'Aerosol'
 'Drink can'
-'Toilet tube’
+'Toilet tube'
 'Other carton'
 'Egg carton'
-'Drink carton’
+'Drink carton'
 'Corrugated carton'
 'Meal carton'
 'Pizza box'
