@@ -1,8 +1,9 @@
 # Object Detection Model (Trash Detector)
+### Deployed app demo: https://huggingface.co/spaces/purplelord2003/Trash_Object_Detector
 
 #### Since we have already built image classification models in the [`PyTorch-Bootcamp`](https://github.com/purplelord2003/PyTorch-Bootcamp) repository, I will now be attempting to build an Object Detection Model using PyTorch. This model will attempt to detect trash objects in images.
 
-#### This repository contains all the work I have done in the 2 Jupyter Notebooks in the `Jupyter Notebooks` folder. Do download the Jupyter Notebook's raw file to fix the formatting within the individual cells (the preview compresses the lines together) or open them in Google Colab using the links below. The `Demo preparation` folder contains the zip file that was then uploaded to Hugging Face spaces. You can access the built model demo application at https://huggingface.co/spaces/purplelord2003/Trash_Object_Detector.
+#### This repository contains all the work I have done in the 2 Jupyter Notebooks in the `Jupyter Notebooks` folder. Do download the Jupyter Notebook's raw file to fix the formatting within the individual cells (the preview compresses the lines together) or open them in Google Colab using the links below. The `Demo preparation` folder contains the zip file that was then uploaded to Hugging Face spaces.
 
 Notebook 1 (training model):
 <a target="_blank" href="https://colab.research.google.com/github/purplelord2003/Object-Detection-Model/blob/main/Jupyter%20Notebooks/Trash_Object_Detection_Model.ipynb">
